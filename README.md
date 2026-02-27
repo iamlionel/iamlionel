@@ -1,13 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Android+Developer+%7C+8+Years;Transitioning+to+Full-Stack;FastAPI+%2B+React+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+![](https://github.com/iamlionel/iamlionel/blob/main/header.png)
 
-<!-- 技术栈横幅：你可以用 https://github.com/tandpfun/skill-icons 生成 -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,python,fastapi,react,ts,js,docker,git,linux,vscode&perline=6" />
-</p>
 
 ---
 
@@ -18,6 +12,7 @@
 - 🤖 Passionate about **AI-assisted development** and building smart tools
 - 📚 Believer in systematic learning — spaced repetition, deliberate practice & Feynman Technique
 - 🌏 Bilingual: Chinese & English
+- ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://iamlionel.space/blog).
 
 ## 🛠️ Tech Stack
 
@@ -43,21 +38,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- 可折叠的详细信息区域，和 halfrost 一样 -->
 <details>
 <summary>📌 Some other things about me</summary>
 
@@ -73,10 +55,8 @@
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 </p>
-
 <p align="center">
-  <!-- 替换为你自己的链接 -->
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://iamlionel.space/blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <!-- 可以加更多社交链接 -->
+<a href= "https://github.com/iamlionel"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://x.com/iamlionel123"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://iamlionel.space"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
