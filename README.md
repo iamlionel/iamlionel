@@ -77,6 +77,6 @@
 <p align="center">
   <!-- 替换为你自己的链接 -->
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  <a href="[https://your-blog.com](https://www.iamlionel.space/blog)"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
   <!-- 可以加更多社交链接 -->
 </p>
