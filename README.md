@@ -37,26 +37,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-
-
-
-<details>
-<summary>📌 Some other things about me</summary>
-
-- 🎯 Goal: Build products independently while mastering full-stack development
-- 💡 Inspired by Naval Ravikant's philosophy on leverage and specific knowledge
-- 📖 Currently reading about investment strategies and systematic learning methods
-- 🔧 Building AI agent systems and structured learning frameworks
-
-</details>
-
----
-
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-</p>
-<p align="center">
-<a href= "https://github.com/iamlionel"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://x.com/iamlionel123"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://iamlionel.space"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
